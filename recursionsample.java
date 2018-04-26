@@ -3,7 +3,7 @@
 *
 *1.0
 *
-*License type : BSD
+*License type : BSD 2-Clause License
 */
 
 
